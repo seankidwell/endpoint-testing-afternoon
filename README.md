@@ -6,6 +6,9 @@ In this project, we will practice the basics of endpoint testing in Postman. Usi
 
 If you need to refresh on Postman's documentation: <a href="https://www.getpostman.com/docs/postman/scripts/test_scripts">Click Me!</a>
 
+***Completed tests can be found here***
+<a>https://www.getpostman.com/collections/67f69ba593d75887d49d</a>
+
 ## Setup
 
 * `fork` and `clone` this repository.
